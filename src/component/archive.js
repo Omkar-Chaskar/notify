@@ -20,8 +20,8 @@ export default function Archive() {
           <div className="card__primary-action card__primary-action-column">
             <MdPushPin name="pin item" className="badge-up-right-corner p3 text-grey ptr" />
             <div className="card__primary">
-              <h2 className="p3 bold">Our Changing Planet</h2>
-              <p className="p2">by Kurt Wagner</p>
+              <h2 className="p3 bold">Note Title....</h2>
+              <p className="p2">Note body....</p>
               <div className="flex card-badges">
                 <p className="card-label p1">Label 1</p>
               </div>
@@ -41,8 +41,8 @@ export default function Archive() {
           <div className="card__primary-action card__primary-action-column">
             <MdPushPin name="pin item" className="badge-up-right-corner p3 text-grey ptr" />
             <div className="card__primary">
-              <h2 className="p3 bold">Our Changing Planet</h2>
-              <p className="p2">by Kurt Wagner</p>
+              <h2 className="p3 bold">Note Title....</h2>
+              <p className="p2">Note body....</p>
               <div className="flex card-badges">
                 <p className="card-label p1">Label 2</p>
               </div>
